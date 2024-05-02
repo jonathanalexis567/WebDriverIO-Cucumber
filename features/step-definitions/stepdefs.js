@@ -1,7 +1,7 @@
 /*
 Creating a Cucumber Program 
 
-In this method we use Given, When, Then. This will help us make a more documented test. 
+In this method we use Given, When, Then. This will help us to make a more documented test. 
 
 Author: Jonathan A. Ramírez Colón
 Date: 5/2/2024
